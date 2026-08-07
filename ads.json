@@ -1,47 +1,48 @@
 {
+  "enabled": true,
   "ads": [
     {
       "id": "ad1",
       "enabled": true,
-      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad1.png",
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/tripa-ads/main/ad1.png",
       "imageVersion": 1,
-      "linkText": "",
-      "androidUrl": "",
-      "iosUrl": ""
+      "linkText": "TRIPA FREE PLAN",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en",
+      "iosUrl": "https://apps.apple.com/us/app/tripa/id6772444633"
     },
     {
       "id": "ad2",
       "enabled": true,
-      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad2.png",
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/tripa-ads/main/ad2.png",
       "imageVersion": 1,
-      "linkText": "Download TRIPA",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA",
-      "iosUrl": "https://apps.apple.com/app/id6772444633"
+      "linkText": "Follow TRIPA on Instagram",
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
     },
     {
       "id": "ad3",
       "enabled": true,
-      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad3.png",
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/tripa-ads/main/ad3.png",
       "imageVersion": 1,
-      "linkText": "",
-      "androidUrl": "",
-      "iosUrl": ""
+      "linkText": "Follow TRIPA on Instagram",
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
     },
     {
       "id": "ad4",
       "enabled": true,
-      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad4.png",
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/tripa-ads/main/ad4.png",
       "imageVersion": 1,
-      "linkText": "",
+      "linkText": "HomFinans",
       "androidUrl": "",
       "iosUrl": ""
     },
     {
       "id": "ad5",
       "enabled": true,
-      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad5.png",
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/tripa-ads/main/ad5.png",
       "imageVersion": 1,
-      "linkText": "",
+      "linkText": "HomFinans",
       "androidUrl": "",
       "iosUrl": ""
     }
